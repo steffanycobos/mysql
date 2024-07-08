@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+id_pedido,int,NO,PRI,NULL,auto_increment
+id_compra,int,NO,MUL,NULL,
+fecha_pedido,datetime,NO,,NULL,
+estado,varchar(50),NO,,NULL,

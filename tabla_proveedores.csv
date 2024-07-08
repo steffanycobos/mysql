@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+id_proveedor,int,NO,PRI,NULL,auto_increment
+nombre,varchar(50),NO,,NULL,
+direccion,varchar(100),NO,,NULL,
