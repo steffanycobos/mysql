@@ -1,0 +1,10 @@
+insert into clientes (nombre, email, telefono, direccion) values ('Pixoboo', 'jconiff0@princeton.edu', '441 383 2218', '52102 Westport Road');
+insert into clientes (nombre, email, telefono, direccion) values ('Bluejam', 'jbenallack1@nih.gov', '111 564 9834', '39544 Lyons Circle');
+insert into clientes (nombre, email, telefono, direccion) values ('Skipstorm', 'tbreitler2@ebay.com', '574 514 9165', '0 Judy Park');
+insert into clientes (nombre, email, telefono, direccion) values ('Layo', 'fclemendet3@amazonaws.com', '528 223 7544', '46878 Vermont Circle');
+insert into clientes (nombre, email, telefono, direccion) values ('Demivee', 'aassender4@harvard.edu', '341 547 6591', '818 Hagan Lane');
+insert into clientes (nombre, email, telefono, direccion) values ('Skiptube', 'dgladdin5@berkeley.edu', '240 524 8058', '6 Eliot Lane');
+insert into clientes (nombre, email, telefono, direccion) values ('Flashspan', 'bclaque6@desdev.cn', '201 821 9931', '66 Waxwing Street');
+insert into clientes (nombre, email, telefono, direccion) values ('Skippad', 'hwhitaker7@apple.com', '182 634 5955', '55 Calypso Way');
+insert into clientes (nombre, email, telefono, direccion) values ('Lazz', 'bclaringbold8@theatlantic.com', '806 662 1142', '93934 Upham Court');
+insert into clientes (nombre, email, telefono, direccion) values ('Tazzy', 'ashoppee9@state.tx.us', '319 766 7117', '63 8th Street');

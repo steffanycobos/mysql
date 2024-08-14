@@ -1,7 +1,0 @@
-Field,Type,Null,Key,Default,Extra
-id_producto,int,NO,PRI,NULL,auto_increment
-nombre,varchar(50),NO,,NULL,
-descripcion,varchar(100),NO,,NULL,
-precio,int,NO,,NULL,
-stock,int,NO,,NULL,
-id_proveedor,int,YES,MUL,NULL,

@@ -1,5 +1,0 @@
-Field,Type,Null,Key,Default,Extra
-id_compra,int,NO,PRI,NULL,auto_increment
-id_cliente,int,YES,MUL,NULL,
-id_producto,int,YES,MUL,NULL,
-precio_totla,int,YES,,NULL,

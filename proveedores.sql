@@ -1,0 +1,10 @@
+insert into proveedores (nombre, email, telefono, direccion) values ('Babbleblab', 'wfairbeard0@ox.ac.uk', '974 197 9674', '6 Cottonwood Place');
+insert into proveedores (nombre, email, telefono, direccion) values ('Skipstorm', 'hgarling1@ustream.tv', '407 243 5959', '17 Northfield Crossing');
+insert into proveedores (nombre, email, telefono, direccion) values ('Snaptags', 'gapfelmann2@un.org', '239 515 6974', '3 Schmedeman Way');
+insert into proveedores (nombre, email, telefono, direccion) values ('Demizz', 'mdurrance3@clickbank.net', '431 926 4835', '731 Hazelcrest Terrace');
+insert into proveedores (nombre, email, telefono, direccion) values ('Browsecat', 'kluggar4@joomla.org', '282 440 0972', '58 Sugar Court');
+insert into proveedores (nombre, email, telefono, direccion) values ('Riffpedia', 'chollington5@shutterfly.com', '782 216 4498', '8284 Talmadge Way');
+insert into proveedores (nombre, email, telefono, direccion) values ('Zava', 'hmerriment6@printfriendly.com', '116 662 4321', '212 Monument Drive');
+insert into proveedores (nombre, email, telefono, direccion) values ('Feedmix', 'dpiatek7@salon.com', '234 806 7541', '71 Sycamore Point');
+insert into proveedores (nombre, email, telefono, direccion) values ('Tanoodle', 'mswetland8@list-manage.com', '965 806 6777', '32 Rieder Crossing');
+insert into proveedores (nombre, email, telefono, direccion) values ('Shufflebeat', 'tbaff9@chron.com', '964 927 4170', '1 Mayer Trail');

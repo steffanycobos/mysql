@@ -1,7 +1,9 @@
+/*CREACION DE TABLAS*/
 DROP DATABASE IF EXISTS mi_tienda;
 
 CREATE DATABASE mi_tienda;
 USE mi_tienda;
+
 CREATE TABLE cliente(
 id_cliente INT PRIMARY KEY auto_increment,
 nombre VARCHAR(50) NOT NULL,
@@ -33,10 +35,16 @@ FOREIGN KEY  (id_proveedor) REFERENCES proveedores(id_proveedor)
 CREATE TABLE compra(
 id_compra INT PRIMARY KEY auto_increment,
 id_cliente INT,
-id_producto INT,
-precio_total INT UNSIGNED,
-FOREIGN KEY  (id_cliente) REFERENCES cliente(id_cliente),
-FOREIGN KEY  (id_producto) REFERENCES producto(id_producto)
+fecha_compra DATETIME,
+FOREIGN KEY  (id_cliente) REFERENCES cliente(id_cliente)
+);
+CREATE TABLE detalles_compra (
+  id_detalle_compra INT AUTO_INCREMENT PRIMARY KEY,
+  id_compra INT,
+  id_producto INT,
+  cantidad INT,
+  FOREIGN KEY (id_compra) REFERENCES compra(id_compra),
+  FOREIGN KEY (id_producto) REFERENCES producto(id_producto)
 );
 
 CREATE TABLE pedido(

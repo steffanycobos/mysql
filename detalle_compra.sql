@@ -1,0 +1,15 @@
+insert into detalle_compra (id_compra , id_producto , cantidad) values (4, 68, 4);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (3, 55, 3);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (3, 45, 3);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (4, 49, 4);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (6, 69, 5);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (3, 61, 5);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (3, 48, 2);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (7, 49, 5);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (5, 60, 4);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (2, 67, 5);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (15, 43, 5);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (12, 64, 2);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (15, 67, 4);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (2, 64, 5);
+insert into detalle_compra (id_compra , id_producto , cantidad) values (11, 56, 2);

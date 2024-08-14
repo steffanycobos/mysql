@@ -1,0 +1,15 @@
+insert into compra (id_cliente, fecha_compra) values (13, '2023-03-02 20:02:39');
+insert into compra (id_cliente, fecha_compra) values (6, '2023-05-11 04:14:47');
+insert into compra (id_cliente, fecha_compra) values (6, '2024-01-15 02:54:27');
+insert into compra (id_cliente, fecha_compra) values (14, '2023-04-15 14:07:54');
+insert into compra (id_cliente, fecha_compra) values (6, '2023-11-02 16:31:19');
+insert into compra (id_cliente, fecha_compra) values (8, '2023-04-02 20:18:07');
+insert into compra (id_cliente, fecha_compra) values (4, '2024-03-24 16:00:08');
+insert into compra (id_cliente, fecha_compra) values (10, '2023-06-27 04:29:18');
+insert into compra (id_cliente, fecha_compra) values (3, '2023-06-22 17:29:03');
+insert into compra (id_cliente, fecha_compra) values (7, '2023-03-14 23:38:22');
+insert into compra (id_cliente, fecha_compra) values (7, '2024-03-11 17:32:55');
+insert into compra (id_cliente, fecha_compra) values (10, '2024-05-18 02:19:01');
+insert into compra (id_cliente, fecha_compra) values (3, '2024-06-15 01:19:47');
+insert into compra (id_cliente, fecha_compra) values (12, '2023-10-15 13:25:22');
+insert into compra (id_cliente, fecha_compra) values (12, '2024-05-14 12:15:06');
